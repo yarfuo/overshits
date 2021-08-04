@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["dom", "es2015"],
+    "noImplicitAny": true,
+    "allowJs": true,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "noEmitHelpers": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "sourceMap": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*"]
+}
