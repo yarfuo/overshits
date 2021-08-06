@@ -1,4 +1,4 @@
-# Overshits
+# Stackovershits
 Google search cleaner for shitty stackoverflow clones
 
 # Why?
