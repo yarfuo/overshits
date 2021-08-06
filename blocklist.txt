@@ -1,6 +1,6 @@
 # MIT License
 
-# Copyright (c) 2020 Aleksandr Polyakov
+# Copyright (c) 2020 Aleksandr Polyakov, original owner of email box yarfuo@gmail.com
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -21,60 +21,60 @@
 # SOFTWARE.
 # StackOverflow fakes
 
-*://askdev.info/*
-*://fooobar.com/*
-*://quru.site/*
-*://quabr.com/*
-*://qacode.ru/*
-*://qa-help.ru/*
-*://qastack.ru/*
-*://qarus.ru/*
-*://qarchive.ru/*
-*://while-do.com/*
-*://stackovernet.com/*
-*://*.stackovernet.com/*
-*://legkovopros.ru/*
-*://switch-case.ru/*
-*://answer-id.com/*
-*://coredump.biz/*
-*://*.coredump.biz/*
-*://stackru.com/*
-*://codeindex.ru/*
-*://husl.ru/*
-*://web-answers.ru/*
-*://v-resheno.ru/*
-*://overcoder.net/*
-*://poweruser.guru/*
-*://kompsekret.ru/*
-*://coderoad.ru/*
-*://progi.pro/*
-*://quares.ru/*
-*://askvoprosy.com/*
-*://askdev.ru/*
-*://ask-ubuntu.ru/*
-*://it-swarm.dev/*
-*://it-swarm-pt.tech/*
-*://it-swarm-es.tech/*
-*://it-swarm-eu.dev/*
-*://it-swarm-ru.tech/*
-*://it-swarm.asia/*
-*://it-swarm-vi.tech/*
-*://it-swarm-ja.tech/*
-*://it-swarm-ko.tech/*
-*://stackanswers.net/*
-*://code.i-harness.com/*
-*://prog-help.ru/*
-*://coderquestion.ru/*
-*://de-vraag.com/*
-*://question-it.com/*
-*://stackoverrun.com/*
-*://crazygeeks.org/*
-*://querygame.com/*
-*://rupython.com/*
-*://*.rupython.com/*
-*://366service.com/*
-*://*.366service.com/*
-*://python5.com/*
-*://awscd.com/*
-*://studassistent.ru/*
-*://ruphp.com/*
+askdev.info
+fooobar.com
+quru.site
+quabr.com
+qacode.ru
+qa-help.ru
+qastack.ru
+qarus.ru
+qarchive.ru
+while-do.com
+stackovernet.com
+stackovernet.com
+legkovopros.ru
+switch-case.ru
+answer-id.com
+coredump.biz
+coredump.biz
+stackru.com
+codeindex.ru
+husl.ru
+web-answers.ru
+v-resheno.ru
+overcoder.net
+poweruser.guru
+kompsekret.ru
+coderoad.ru
+progi.pro
+quares.ru
+askvoprosy.com
+askdev.ru
+ask-ubuntu.ru
+it-swarm.dev
+it-swarm-pt.tech
+it-swarm-es.tech
+it-swarm-eu.dev
+it-swarm-ru.tech
+it-swarm.asia
+it-swarm-vi.tech
+it-swarm-ja.tech
+it-swarm-ko.tech
+stackanswers.net
+code.i-harness.com
+prog-help.ru
+coderquestion.ru
+de-vraag.com
+question-it.com
+stackoverrun.com
+crazygeeks.org
+querygame.com
+rupython.com
+rupython.com
+366service.com
+366service.com
+python5.com
+awscd.com
+studassistent.ru
+ruphp.com
