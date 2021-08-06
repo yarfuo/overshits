@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run chromium debug" type="CompoundRunConfigurationType">
+    <toRun name="start:chromium" type="js.build_tools.npm" />
+    <toRun name="watch" type="js.build_tools.npm" />
+    <method v="2" />
+  </configuration>
+</component>
