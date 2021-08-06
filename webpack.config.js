@@ -20,6 +20,7 @@ module.exports = {
   },
   entry: {
     "block": "./src/block.ts",
+    "background": "./src/background.ts"
   },
   output: {
     path: DIST_PATH,
