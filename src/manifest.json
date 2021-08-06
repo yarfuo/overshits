@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "Overshits",
+  "name": "Stackovershits",
   "description": "Google search cleaner for shitty stackoverflow clones",
   "author": "Yarfuo <yarfuo@gmail.com>",
   "permissions": [
