@@ -9,8 +9,8 @@
   "scripts": {
     "lint:web-ext": "web-ext lint",
     "watch": "webpack --watch",
-    "build-dev": "webpack --mode=development && web-ext build -s dist --artifacts-dir=build",
-    "build-release": "webpack --mode=production && web-ext build -s dist --artifacts-dir=build",
+    "build-dev": "webpack --mode=development && web-ext build -s dist --artifacts-dir=build --overwrite-dest",
+    "build-release": "webpack --mode=production && web-ext build -s dist --artifacts-dir=build --overwrite-dest",
     "start:firefox": "web-ext run -i 'node_modules/*' -t firefox-desktop -s dist -u https://google.com/search?q=site:qastack.ru",
     "start:chromium": "web-ext run -i 'node_modules/*' -t chromium -s dist -u https://google.com/search?q=test?q=site:qastack.ru"
   },
