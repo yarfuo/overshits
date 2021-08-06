@@ -5,11 +5,11 @@
   "description": "Google search cleaner for shitty stackoverflow clones",
   "author": "Yarfuo <yarfuo@gmail.com>",
   "permissions": [
-    "https://*/*"
+    "https://www.google.com/search?*"
   ],
   "content_scripts": [
     {
-      "matches": ["https://*/*"],
+      "matches": ["https://www.google.com/search?*"],
       "js": ["block.js"]
     }
   ]
