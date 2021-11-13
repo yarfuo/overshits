@@ -1,5 +1,17 @@
+<header style="text-align: center">
+
 # Stackovershits
 Google search cleaner for shitty stackoverflow clones
+
+<a href="#">
+    <img src="https://img.shields.io/chrome-web-store/v/idcideoaglaophnpmbdckpfjplaamaip" alt="chrome store" />
+</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/stackovershits/">
+    <img src="https://img.shields.io/amo/v/stackovershits" alt="mozilla addon">
+</a>
+
+</header>
+
 
 # Why?
 There is already working solutions like [this](https://github.com/iorate/uBlacklist#uBlacklist) and there is not only
