@@ -26,7 +26,3 @@ yarn build-release
 ```
 Unsigned zip extension should be at `./build/`. If you want to sign extension manually with CLI, check out official
 web-ext [documentation](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
-
-
-# TODO
-- [ ] Fix page jumping on removing results
