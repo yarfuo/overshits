@@ -17,7 +17,7 @@ import { browser } from "webextension-polyfill-ts"
     if (!link) {
       return
     }
-    const host = (new URL(link)).host
+    const host = (new URL(link)).host.replace(/^www\./gi, "")
     if (blocklistUrls.includes(host)) {
       searchResult.remove()
     }
