@@ -3,7 +3,7 @@
 # Stackovershits
 Google search cleaner for shitty stackoverflow clones
 
-<a href="#">
+<a href="https://chrome.google.com/webstore/detail/stackovershits/idcideoaglaophnpmbdckpfjplaamaip?hl=ru&authuser=0">
     <img src="https://img.shields.io/chrome-web-store/v/idcideoaglaophnpmbdckpfjplaamaip" alt="chrome store" />
 </a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/stackovershits/">
